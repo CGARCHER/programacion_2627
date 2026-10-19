@@ -19,6 +19,10 @@ Los ejercicios actuales permiten practicar:
 
 El contenido se irá ampliando conforme avancemos en las tutorías.
 
+## Descargar PSeInt
+
+Para abrir y ejecutar los ejercicios de pseudocódigo, instala **PSeInt** desde su [página oficial de descargas](https://pseint.sourceforge.net/?page=descargas.php). Elige la versión correspondiente a tu sistema operativo.
+
 ## Cómo trabajar con los ejercicios
 
 1. Descarga el repositorio y abre el archivo `.psc` correspondiente en **PSeInt**.
